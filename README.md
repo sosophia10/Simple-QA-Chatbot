@@ -20,7 +20,7 @@ This project implements a simple **Question Answering (QA) system**. The system 
 ### Installation Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/qa-system.git
+   git clone https://github.com/sosophia10/Simple-QA-Chatbot.git
    ```
    
 2. Navigate to the project directory:
@@ -30,7 +30,7 @@ This project implements a simple **Question Answering (QA) system**. The system 
    
 3. Run the QA system:
    ```
-   git clone https://github.com/your-username/qa-system.git
+   python eliza.py
    ```
 
 ## Usage
